@@ -60,4 +60,4 @@ npm run dev
 ## Contact info
 
 if any problem contact me on <a target="_blank" href="https://api.whatsapp.com/send?phone=6281294054091">whatsapp</a>
-# CRUD-Adonis.JS
+
